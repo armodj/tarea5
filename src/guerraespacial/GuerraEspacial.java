@@ -15,6 +15,7 @@ public class GuerraEspacial {
       las razas ha ganado la batalla.*/
 
         int victoria = 0;
+        int derrota= 0;
 
 
         Nave nave1 = new Nave("Marciana");
